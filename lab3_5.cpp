@@ -15,9 +15,9 @@ int main(){
 
     while(count<N){
         if(count%2==0){
-            cout << text1;
+            cout << text1 << " ";
         }else{
-            cout << text2;
+            cout << text2 << " ";
         }
         count++;
     }
